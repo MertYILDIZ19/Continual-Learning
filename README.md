@@ -4,6 +4,7 @@ Academics and practitioners alike believe that continual learning (CL) is a fund
 
 In this repository you can see the notebook that I have applied Continual Learning on colorectal cancer histology data. I have used simple 3 layers CNN to train the model. I have started by showing the importance of regularization against over-fitting. Then I have trained the model without continual learning for 4 tasks and compared the accuracy with the model that has been trained with Elastic Weight Consolidation (EWC). 
 
+*References*
 
 Michieli, U., Toldo, M., & Zanuttigh, P. (2022). Domain adaptation and continual learning in semantic segmentation. Advanced Methods and Deep Learning in Computer Vision, 275-303. https://doi.org/10.1016/B978-0-12-822109-9.00017-5
 
